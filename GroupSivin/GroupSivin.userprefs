@@ -1,0 +1,21 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="assets\Scripts\CollisionScript.cs">
+    <Files>
+      <File FileName="assets\Scripts\SpawnEnemy.cs" Line="21" Column="25" />
+      <File FileName="assets\Scripts\CollisionScript.cs" Line="31" Column="1" />
+      <File FileName="assets\Scripts\PlayerMovement.cs" Line="21" Column="30" />
+      <File FileName="assets\Scripts\EnemyMovement.cs" Line="23" Column="28" />
+      <File FileName="assets\Scripts\TileGenerator.cs" Line="28" Column="83" />
+      <File FileName="assets\Scripts\PlayerScore.cs" Line="44" Column="9" />
+      <File FileName="assets\Scripts\RandomNumber.cs" Line="28" Column="3" />
+      <File FileName="assets\Scripts\Timer.cs" Line="27" Column="1" />
+      <File FileName="assets\Scripts\VisionSystem.cs" Line="33" Column="1" />
+      <File FileName="assets\Scripts\SpawnTrash.cs" Line="31" Column="37" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
